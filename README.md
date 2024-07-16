@@ -1,6 +1,10 @@
 # Nueue
 
-- An easier way to create the queue.
+An easier way to create the queue.
+
+```py
+$ pip install Nueue
+```
 
 ## Example
 
@@ -20,4 +24,4 @@ next_ = queue.next()
 # พี่ชอบหนูที่สุดเลย
 ```
 
-That's it, have fun!
+That's it, have fun! (?
