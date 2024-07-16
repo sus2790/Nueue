@@ -1,6 +1,6 @@
 # Nueue
 
-- an easir way to create queues.
+- An easier way to create the queue.
 
 ## Example
 
@@ -19,4 +19,5 @@ now_playing = queue.current_item()
 next_ = queue.next()
 # พี่ชอบหนูที่สุดเลย
 ```
+
 That's it, have fun!
